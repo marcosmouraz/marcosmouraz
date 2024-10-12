@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023<br><br>📚 Atualmente estou aprendendo ABAP<br><br>🎯 Meu objetivo é criar soluções inovadoras utilizando tecnologia, com foco em acessibilidade e experiência do usuário. Busco sempre aprender novas ferramentas e colaborar em projetos que impactam positivamente as pessoas e a sociedade.<br><br>🎲 Mesmo sendo apaixonado por tecnologia, gosto de relaxar longe das telas praticando esportes ou me divertindo com jogos online, especialmente aqueles que desafiam a estratégia e a criatividade.</p>
+<p align="left">✨ Criando bugs desde 2023<br><br><br>🎯 Meu objetivo é criar soluções inovadoras utilizando tecnologia, com foco em acessibilidade e experiência do usuário. Busco sempre aprender novas ferramentas e colaborar em projetos que impactam positivamente as pessoas e a sociedade.<br><br>🎲 Mesmo sendo apaixonado por tecnologia, gosto de relaxar longe das telas praticando esportes ou me divertindo com jogos online, especialmente aqueles que desafiam a estratégia e a criatividade.</p>
 
 ###
 
