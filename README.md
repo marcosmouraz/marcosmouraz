@@ -2,11 +2,13 @@
 
 ###
 
-<p align="left">Sou o Marcos Moura, Pai,  Olindense, Rubro-negro e apaixonado por tecnologia.</p>
+
 
 ###
 
 <h2 align="left">Sobre mim</h2>
+
+<p align="left">Sou o Marcos Moura, Pai,  Olindense, Rubro-negro e apaixonado por tecnologia.</p>
 
 ###
 
