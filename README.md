@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023<br><br>🎯 Meu objetivo é desenvolver soluções inovadoras utilizando tecnologia, com foco em acessibilidade e experiência do usuário. Buscando sempre aprender novas ferramentas e colaborar em projetos que impactam positivamente as pessoas e a sociedade.<br><br>🎲 Mesmo sendo apaixonado por tecnologia, gosto de relaxar longe das telas praticando esportes ou me divertindo com jogos online, especialmente aqueles que desafiam a estratégia e a criatividade.</p>
+<p align="left">✨ Criando bugs desde 2023<br><br>🎯 Meu objetivo é desenvolver soluções inovadoras utilizando tecnologia, com foco em acessibilidade e experiência do usuário. Buscando sempre aprender novas ferramentas e colaborar em projetos que impactam positivamente as pessoas e a sociedade.<br><br>🎲 Mesmo sendo apaixonado por tecnologia, gosto de relaxar fora das telas praticando esportes mas meu hobby é jogos online, especialmente aqueles que desafiam a estratégia e a criatividade.</p>
 
 ###
 
