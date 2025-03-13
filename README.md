@@ -8,7 +8,7 @@
 
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">Sou o Marcos Moura, Pai,  Olindense, Rubro-negro e apaixonado por tecnologia.</p>
+<p align="left">Sou o Marcos Moura, Pai da Isadora,  OlindenseNATO, Apaixonado pelo Sport Club do Recife e apaixonado por tecnologia.</p>
 
 ###
 
